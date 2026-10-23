@@ -1,0 +1,30 @@
+{
+  "login": "NkhszkQAQ",
+
+  "name": "Amashiro Natsuki",
+  "handle": "NKHSZKQAQ",
+  "meta": ["TOKYO", "SINCE 2026"],
+
+  "intro": "Small tools, static pages, and the occasional plugin — built to be quiet.",
+
+  "typed": [
+    "building small tools, quietly.",
+    "fewer parts. less noise.",
+    "write it once, then leave it alone."
+  ],
+
+  "stack": ["PYTHON", "JAVASCRIPT", "NODE.JS", "HTML", "CSS", "GIT", "SHELL"],
+
+  "projects": ["schoology-due", "eleanor", "dsh-notify"],
+
+  "timezone": "Asia/Tokyo",
+  "timezoneLabel": "TOKYO",
+
+  "footer": {
+    "links": [
+      { "label": "github", "href": "https://github.com/NkhszkQAQ" },
+      { "label": "repositories", "href": "https://github.com/NkhszkQAQ?tab=repositories" }
+    ],
+    "visits": "https://hits.sh/github.com/NkhszkQAQ.svg?label=views&color=8b8b8b&labelColor=ebebeb"
+  }
+}

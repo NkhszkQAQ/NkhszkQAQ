@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="828" height="300" viewBox="0 0 828 300" role="img" aria-labelledby="ttl">
+<title id="ttl">Selected work</title>
+<defs></defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans","PingFang SC","Hiragino Sans","Helvetica Neue",Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+@media (prefers-reduced-motion:reduce){
+  .typed{clip-path:none!important}
+  .typed:not(.p0){display:none!important}
+  .caret{display:none!important}
+}
+</style>
+<g fill="none">
+<text x="0" y="20" class="mono" font-size="9.5" fill="#b4b4b4" letter-spacing="1.6">SELECTED WORK</text><text x="0" y="64" class="mono" font-size="13" fill="#111111">schoology-due</text><text x="0" y="86" class="sans" font-size="12" fill="#8b8b8b">Privacy-conscious Schoology homework deadline CLI and Codex skill. Python standard library, private iCal configu…</text><text x="828" y="64" class="mono" font-size="9.5" fill="#b4b4b4" letter-spacing="1.2" text-anchor="end">PYTHON  ·  2026.10</text><rect x="0" y="108" width="828" height="1" fill="#e8e8e8"/><text x="0" y="148" class="mono" font-size="13" fill="#111111">eleanor</text><text x="0" y="170" class="sans" font-size="12" fill="#8b8b8b">Standalone static voice card, music player and photo gallery for GitHub Pages.</text><text x="828" y="148" class="mono" font-size="9.5" fill="#b4b4b4" letter-spacing="1.2" text-anchor="end">JAVASCRIPT  ·  2026.09</text><rect x="0" y="192" width="828" height="1" fill="#e8e8e8"/><text x="0" y="232" class="mono" font-size="13" fill="#111111">dsh-notify</text><text x="0" y="254" class="sans" font-size="12" fill="#8b8b8b">dsh 插件：任务完成推送手机通知（Bark / Server酱 / webhook）</text><text x="828" y="232" class="mono" font-size="9.5" fill="#b4b4b4" letter-spacing="1.2" text-anchor="end">JAVASCRIPT  ·  2026.08</text>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-labelledby="ttl">
+<title id="ttl">GitHub figures</title>
+<defs></defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans","PingFang SC","Hiragino Sans","Helvetica Neue",Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+@media (prefers-reduced-motion:reduce){
+  .typed{clip-path:none!important}
+  .typed:not(.p0){display:none!important}
+  .caret{display:none!important}
+}
+</style>
+<g fill="none">
+<text x="0" y="26" class="mono" font-size="9.5" fill="#4a4a4a" letter-spacing="1.6">CONTRIBUTIONS · 1Y</text><text x="0" y="64" class="sans" font-size="27" fill="#ededed">1,314</text><text x="208" y="26" class="mono" font-size="9.5" fill="#4a4a4a" letter-spacing="1.6">DAY STREAK</text><text x="208" y="64" class="sans" font-size="27" fill="#ededed">—</text><text x="0" y="118" class="mono" font-size="9.5" fill="#4a4a4a" letter-spacing="1.6">PUBLIC REPOS</text><text x="0" y="156" class="sans" font-size="27" fill="#ededed">4</text><text x="208" y="118" class="mono" font-size="9.5" fill="#4a4a4a" letter-spacing="1.6">FOLLOWERS</text><text x="208" y="156" class="sans" font-size="27" fill="#ededed">2</text>
+</g>
+</svg>
