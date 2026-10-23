@@ -449,9 +449,12 @@ for (const date of sortedDays) {
 /* languages ----------------------------------------------------------- */
 
 const langBytes = new Map();
-for (const repo of u.repositories.nodes || [])
+for (const repo of u.repositories.nodes || []) {
+  // The profile repo itself would otherwise count its own renderer as a language.
+  if (repo.name.toLowerCase() === CFG.login.toLowerCase()) continue;
   for (const edge of repo.languages?.edges || [])
     langBytes.set(edge.node.name, (langBytes.get(edge.node.name) || 0) + edge.size);
+}
 const langTotal = [...langBytes.values()].reduce((a, b) => a + b, 0) || 1;
 const langs = [...langBytes.entries()]
   .map(([name, bytes]) => ({ name, bytes, pct: (bytes / langTotal) * 100 }))
