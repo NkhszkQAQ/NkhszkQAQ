@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="828" height="250" viewBox="0 0 828 250" role="img" aria-labelledby="ttl">
-<title id="ttl">Amashiro Natsuki</title>
+<title id="ttl">ioi</title>
 <defs><clipPath id="clip-0"><rect x="0" y="170" width="0" height="26">
 <animate attributeName="width" calcMode="discrete" dur="19800ms" repeatCount="indefinite" keyTimes="0;0.002525;0.005051;0.007576;0.010101;0.012626;0.015152;0.017677;0.020202;0.022727;0.025253;0.027778;0.030303;0.032828;0.035354;0.037879;0.040404;0.042929;0.045455;0.04798;0.050505;0.05303;0.055556;0.058081;0.060606;0.063131;0.065657;0.068182;0.070707;0.073232;0.075758;0.277778;0.27862;0.279461;0.280303;0.281145;0.281987;0.282828;0.28367;0.284512;0.285354;0.286195;0.287037;0.287879;0.288721;0.289562;0.290404;0.291246;0.292088;0.292929;0.293771;0.294613;0.295455;0.296296;0.297138;0.29798;0.298822;0.299663;0.300505;0.301347;0.302189;0.30303;1" values="0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162;170.1;178.2;186.3;194.4;202.5;210.6;218.7;226.8;234.9;243;243;234.9;226.8;218.7;210.6;202.5;194.4;186.3;178.2;170.1;162;153.9;145.8;137.7;129.6;121.5;113.4;105.3;97.2;89.1;81;72.9;64.8;56.7;48.6;40.5;32.4;24.3;16.2;8.1;0;0"/>
 </rect></clipPath><clipPath id="clip-1"><rect x="0" y="170" width="0" height="26">
@@ -17,7 +17,7 @@
 }
 </style>
 <g fill="none">
-<text x="0" y="55" class="sans" font-size="30" fill="#111111" font-weight="500" letter-spacing="0.2">Amashiro Natsuki</text><text x="1" y="83" class="mono" font-size="10" fill="#b4b4b4" letter-spacing="1.8">NKHSZKQAQ  ·  TOKYO  ·  SINCE 2026</text><rect x="0" y="107" width="828" height="1" fill="#e8e8e8"/><text x="0" y="149" class="sans" font-size="15" fill="#3d3d3d">Small tools, static pages, and the occasional plugin — built to be quiet.</text><text x="0" y="187" class="mono typed p0" font-size="13.5" fill="#5f7183" textLength="243" lengthAdjust="spacing" clip-path="url(#clip-0)">building small tools, quietly.</text>
+<text x="0" y="55" class="sans" font-size="30" fill="#111111" font-weight="500" letter-spacing="0.2">ioi</text><text x="1" y="83" class="mono" font-size="10" fill="#b4b4b4" letter-spacing="1.8">NKHSZKQAQ  ·  TOKYO  ·  SINCE 2026</text><rect x="0" y="107" width="828" height="1" fill="#e8e8e8"/><text x="0" y="149" class="sans" font-size="15" fill="#3d3d3d">Small tools, static pages, and the occasional plugin — built to be quiet.</text><text x="0" y="187" class="mono typed p0" font-size="13.5" fill="#5f7183" textLength="243" lengthAdjust="spacing" clip-path="url(#clip-0)">building small tools, quietly.</text>
 <rect class="caret" x="0" y="172" width="1.5" height="19" fill="#5f7183" opacity="0">
 <animateTransform attributeName="transform" type="translate" dur="19800ms" repeatCount="indefinite" keyTimes="0;0.075758;0.277778;0.30303;1" values="0 0;243 0;243 0;0 0;0 0"/>
 <animate attributeName="opacity" calcMode="discrete" dur="19800ms" repeatCount="indefinite" keyTimes="0;0.30303;1" values="1;0;0"/>
