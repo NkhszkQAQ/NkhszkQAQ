@@ -15,7 +15,7 @@
 
   "stack": ["PYTHON", "JAVASCRIPT", "NODE.JS", "HTML", "CSS", "GIT", "SHELL"],
 
-  "projects": ["schoology-due", "eleanor", "dsh-notify"],
+  "projects": ["schoology-due", "eleanor", "dsh-notify", "astrbot_plugin_dllm"],
 
   "timezone": "Asia/Tokyo",
   "timezoneLabel": "TOKYO",
