@@ -9,7 +9,7 @@
 <a href="https://github.com/NkhszkQAQ">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="1,373 contributions in the last year" width="828">
+  <img src="assets/activity-light.svg" alt="1,374 contributions in the last year" width="828">
 </picture>
 </a>
 
@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
-  <img src="assets/quote-light.svg" alt="It is not that we have a short time to live, but that we waste much of it. — Seneca" width="828">
+  <img src="assets/quote-light.svg" alt="The details are not the details. They make the design. — Charles Eames" width="828">
 </picture>
 
 <sub><a href="https://github.com/NkhszkQAQ">github</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ?tab=repositories">repositories</a> &nbsp;·&nbsp; <img src="https://hits.sh/github.com/NkhszkQAQ.svg?label=views&color=8b8b8b&labelColor=ebebeb" alt="views" height="14" align="absmiddle"></sub>
