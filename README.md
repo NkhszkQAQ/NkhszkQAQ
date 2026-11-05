@@ -9,18 +9,18 @@
 <a href="https://github.com/NkhszkQAQ">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="1,374 contributions in the last year" width="828">
+  <img src="assets/activity-light.svg" alt="1,394 contributions in the last year" width="828">
 </picture>
 </a>
 
 <a href="https://github.com/NkhszkQAQ?tab=repositories">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img src="assets/work-light.svg" alt="Selected work: schoology-due, eleanor, dsh-notify, astrbot_plugin_dllm" width="828">
+  <img src="assets/work-light.svg" alt="Selected work: schoology-due, dsh-notify, astrbot_plugin_dllm" width="828">
 </picture>
 </a>
 
-<sub><a href="https://github.com/NkhszkQAQ/schoology-due">schoology-due</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ/eleanor">eleanor</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ/dsh-notify">dsh-notify</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ/astrbot_plugin_dllm">astrbot_plugin_dllm</a></sub>
+<sub><a href="https://github.com/NkhszkQAQ/schoology-due">schoology-due</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ/dsh-notify">dsh-notify</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ/astrbot_plugin_dllm">astrbot_plugin_dllm</a></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
