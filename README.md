@@ -9,7 +9,7 @@
 <a href="https://github.com/NkhszkQAQ">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="1,441 contributions in the last year" width="828">
+  <img src="assets/activity-light.svg" alt="1,444 contributions in the last year" width="828">
 </picture>
 </a>
 
@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
-  <img src="assets/quote-light.svg" alt="知人者智，自知者明。 — 《道德经》三十三章" width="828">
+  <img src="assets/quote-light.svg" alt="君子不器。 — 《论语·为政》" width="828">
 </picture>
 
 <sub><a href="https://github.com/NkhszkQAQ">github</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ?tab=repositories">repositories</a> &nbsp;·&nbsp; <img src="https://hits.sh/github.com/NkhszkQAQ.svg?label=views&color=8b8b8b&labelColor=ebebeb" alt="views" height="14" align="absmiddle"></sub>
