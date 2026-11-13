@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="828" height="132" viewBox="0 0 828 132" role="img" aria-labelledby="ttl">
-<title id="ttl">Less is more. — Mies van der Rohe</title>
+<title id="ttl">Simplicity is the keynote of all true elegance. — Coco Chanel</title>
 <defs></defs>
 <style>
 .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans","PingFang SC","Hiragino Sans","Helvetica Neue",Arial,sans-serif}
@@ -16,6 +16,6 @@
 </style>
 <rect x="0.5" y="0.5" width="827" height="131" rx="18" fill="#151412" stroke="#2a2722"/>
 <g fill="none">
-<text x="414" y="56" class="serif" font-size="40" fill="#ff6b3d" text-anchor="middle" opacity="0.9">“</text><text x="414" y="76" class="serif" font-size="17" fill="#f1ede5" text-anchor="middle" font-style="italic">Less is more.</text><text x="414" y="104" class="mono" font-size="9.5" fill="#8c857a" letter-spacing="1.6" text-anchor="middle">— Mies van der Rohe</text>
+<text x="414" y="56" class="serif" font-size="40" fill="#ff6b3d" text-anchor="middle" opacity="0.9">“</text><text x="414" y="76" class="serif" font-size="17" fill="#f1ede5" text-anchor="middle" font-style="italic">Simplicity is the keynote of all true elegance.</text><text x="414" y="104" class="mono" font-size="9.5" fill="#8c857a" letter-spacing="1.6" text-anchor="middle">— Coco Chanel</text>
 </g>
 </svg>
