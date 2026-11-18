@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
-  <img src="assets/quote-light.svg" alt="Make it work, make it right, make it fast. — Kent Beck" width="828">
+  <img src="assets/quote-light.svg" alt="What I cannot create, I do not understand. — Richard Feynman" width="828">
 </picture>
 
 <sub><a href="https://github.com/NkhszkQAQ">github</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ?tab=repositories">repositories</a> &nbsp;·&nbsp; <img src="https://hits.sh/github.com/NkhszkQAQ.svg?label=views&color=8b8b8b&labelColor=ebebeb" alt="views" height="14" align="absmiddle"></sub>
