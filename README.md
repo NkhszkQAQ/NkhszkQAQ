@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
-  <img src="assets/quote-light.svg" alt="君子不器。 — 《论语·为政》" width="828">
+  <img src="assets/quote-light.svg" alt="静水流深。 — 汉语谚语" width="828">
 </picture>
 
 <sub><a href="https://github.com/NkhszkQAQ">github</a> &nbsp;·&nbsp; <a href="https://github.com/NkhszkQAQ?tab=repositories">repositories</a> &nbsp;·&nbsp; <img src="https://hits.sh/github.com/NkhszkQAQ.svg?label=views&color=8b8b8b&labelColor=ebebeb" alt="views" height="14" align="absmiddle"></sub>
